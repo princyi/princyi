@@ -93,13 +93,21 @@ Welcome to my GitHub profile! I'm passionate about **Cloud Technology**, **AI De
   <a href="mailto:princykshirsagar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/princy-kshirsagar">
+  <a href="https://www.linkedin.com/in/princy-kshirsagar-333814226/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://trite-kettle-f5d.notion.site/Portfolio-c46c84abb5a84fc0b681638aa9b835c3">
+    <img src="https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
   <a href="https://princyi.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub%20Website-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+_✨ Let’s innovate together and build something impactful!_
+
 
 ---
 
