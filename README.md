@@ -90,9 +90,6 @@ Welcome to my GitHub profile! I'm passionate about **Cloud Technology**, **AI De
 
 ## 🧩 Let's Connect
 <p>
-  <a href="mailto:princykshirsagar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/princy-kshirsagar-333814226/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
