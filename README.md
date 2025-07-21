@@ -96,7 +96,7 @@ Welcome to my GitHub profile! I'm passionate about **Cloud Technology**, **AI De
   <a href="https://trite-kettle-f5d.notion.site/Portfolio-c46c84abb5a84fc0b681638aa9b835c3">
     <img src="https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
-  <a href="https://princyi.github.io">
+  <a href="https://github.com/princyi">
     <img src="https://img.shields.io/badge/GitHub%20Website-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
