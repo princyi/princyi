@@ -36,9 +36,9 @@ Welcome to my GitHub profile! I'm passionate about **Cloud Technology**, **AI De
 ---
 
 ### 📫 How to reach me:
-- 📧 Email: princykshirsagar@example.com
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 📧 Email: princykshirsagar@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/princy-kshirsagar-333814226](https://linkedin.com/in/princy-kshirsagar-333814226)
+- 🌐 Portfolio: [Notion Portfolio](https://trite-kettle-f5d.notion.site/Portfolio-c46c84abb5a84fc0b681638aa9b835c3)
 
 ---
 
@@ -65,15 +65,6 @@ Welcome to my GitHub profile! I'm passionate about **Cloud Technology**, **AI De
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princyi&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princyi&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
----
-
 ## 📚 Featured Projects
 
 | 🧪 Project | 🚀 Description | 🛠️ Tech |
@@ -89,6 +80,7 @@ Welcome to my GitHub profile! I'm passionate about **Cloud Technology**, **AI De
 ---
 
 ## 🧩 Let's Connect
+
 <p>
   <a href="https://www.linkedin.com/in/princy-kshirsagar-333814226/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -97,16 +89,10 @@ Welcome to my GitHub profile! I'm passionate about **Cloud Technology**, **AI De
     <img src="https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
   <a href="https://github.com/princyi">
-    <img src="https://img.shields.io/badge/GitHub%20Website-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-princyi-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 _✨ Let’s innovate together and build something impactful!_
-
-
----
-
-_✨ Let’s innovate together and build something impactful!_
-
