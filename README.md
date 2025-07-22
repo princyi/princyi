@@ -1,24 +1,104 @@
-# 💫 About Me:
-<br>🔭 I’m currently working on:<br>- 🧠 An **AI Plagiarism Converter** tool for researchers and students<br>- 🔐 **Quantum Cryptography** using AWS Braket and one-time pad encryption<br>- ⚡ **ChargeEase** – An AI-based solar-powered EV charging system<br>- 📄 Smart AI-powered **Resume Builder** and Job Matching Platform<br><br>---<br><br>🌱 I’m currently learning:<br>- ☁️ **Advanced AWS DevOps** and **GCP Cloud Functions**<br>- 🤖 **LangChain**, **LLMs**, and **GenAI Agent Development**<br>- 🧩 **No-Code/Low-Code AI Automation Tools** like Flowise, Zapier<br>- 🧪 **AI + UI/UX** integrations and Human-AI Collaboration platforms<br><br>---<br><br>👯 I’m looking to collaborate on:<br>- Cloud-AI hybrid tools<br>- AI research applications for education and sustainability<br>- Full-stack SaaS platforms<br><br>---<br><br> 💬 Ask me about:<br>- AWS and Cloud Career Roadmaps<br>- Building ethical AI tools<br>- Integrating AI with frontend/backend workflows<br>- Low-code cloud automation<br><br>---<br><br>📫 How to reach me:<br>- 📧 Email: princykshirsagar@gmail.com<br>- 💼 LinkedIn: [linkedin.com/in/princy-kshirsagar-333814226](https://linkedin.com/in/princy-kshirsagar-333814226)<br>- 🌐 Portfolio: [Notion Portfolio](https://trite-kettle-f5d.notion.site/Portfolio-c46c84abb5a84fc0b681638aa9b835c3)<br><br><br><br>⚡ Fun Fact:<br>> I love building tools that turn complex tasks into one-click solutions!  <br>> Creating AI that mimics human creativity is my favorite challenge 🧠✨<br><br>
+## 👋 Hi there, I'm Princy Kshirsagar!
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/princy-kshirsagar-333814226) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princykshirsagar@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat-square&logo=Apache%20Ant&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat-square&logo=Apache%20Flink&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Princy Kshirsagar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Princy Kshirsagar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Princy Kshirsagar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Princy Kshirsagar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Princy Kshirsagar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Welcome to my GitHub! I’m a tech enthusiast deeply passionate about **Cloud Technology**, **AI Development**, and building real-world, scalable innovations. From AI-powered tools to quantum encryption systems, I aim to bridge modern tech with human-centric solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Princy Kshirsagar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔭 Currently Working On
+- 🧠 **AI Plagiarism Converter**: Humanizes AI-generated text for research & academia  
+- 🔐 **Quantum Cryptography**: One-time pad encryption via **AWS Braket**  
+- ⚡ **ChargeEase**: AI-driven solar-powered EV charging solution  
+- 📄 **AI Resume Builder**: Smart ATS-ready resume generator with GPT support  
+
+---
+
+### 🌱 Currently Learning
+- ☁️ **Advanced DevOps** on AWS & GCP  
+- 🤖 **LangChain**, **LLMs**, and GenAI Agent tools  
+- 🔄 **Low-Code AI Automation**: Flowise, Zapier  
+- 🎨 Human-AI integration through **AI + UI/UX** interfaces  
+
+---
+
+### 👯 Open to Collaborate On
+- Cloud + AI hybrid SaaS products  
+- Ethical AI tools for education, sustainability, and research  
+- Full-stack, real-time data-driven applications  
+
+---
+
+### 💬 Ask Me About
+- AWS Career & Cloud Certifications  
+- Building scalable GenAI tools  
+- Backend + AI + UI/UX integration strategies  
+- No-code/Low-code cloud automation workflows  
+
+---
+
+### 📫 Contact & Portfolio
+
+<p>
+  <a href="mailto:princykshirsagar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/princy-kshirsagar-333814226/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://trite-kettle-f5d.notion.site/Portfolio-c46c84abb5a84fc0b681638aa9b835c3">
+    <img src="https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact  
+> I love building tools that turn complex tasks into one-click magic ✨  
+> My goal? To make AI feel less artificial and more human.  
+
+---
+
+## 💻 Tech Stack & Tools
+
+**Languages & Frameworks:**  
+`C` `C++` `C#` `Java` `JavaScript` `Python` `PHP` `HTML5` `CSS3` `Bash` `Angular` `.NET`
+
+**AI/ML & Data Tools:**  
+`TensorFlow` `PyTorch` `Pandas` `NumPy` `Matplotlib` `scikit-learn` `Scipy` `Anaconda`
+
+**Cloud & DevOps:**  
+`AWS` `Microsoft Azure` `Google Cloud Platform (GCP)` `Oracle Cloud` `Cloudflare`
+
+**Database & Backend:**  
+`MongoDB` `PostgreSQL` `SQLite` `Amazon DynamoDB` `Apache` `Flink` `Airflow` `Ant`
+
+**Version Control & CI/CD:**  
+`Git` `GitHub` `GitLab`
+
+---
+
+## 🏆 GitHub Stats & Achievements
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=princyi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princyi&theme=dark&layout=compact&hide_border=false" width="47%" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=princyi&theme=dark&hide_border=false" width="60%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=princyi&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### 📈 Profile Views
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=princyi&icon=0&color=6" />
+</p>
+
+---
+
+_✨ Let’s innovate together and build something impactful!_
