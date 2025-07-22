@@ -57,17 +57,28 @@ Welcome to my GitHub! I’m a tech enthusiast deeply passionate about **Cloud Te
 
 ---
 
-## 💻 Tech Stack Experience
+💻 Tech Stack Experience
+🧑‍💻 Languages
+C++  |  Go  |  Python  |  JavaScript  |  PHP  |  Bash
 
-```
-Languages:       C++, Go , Python, JavaScript, PHP, Bash  
-Web & UI:        HTML5, Angular, Angular.js, .NET, Figma 
-AI & ML:         PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, Matplotlib  
-Cloud Platforms: AWS, GCP, Azure, Oracle Cloud, Cloudflare  
-Databases:       DynamoDB, PostgreSQL, MongoDB, SQLite  
-DevOps:          GitHub, GitLab,Terraform, Docker, Docker, Podman, Kubernetes, Jenkins     
-Automation:      Flowise, Zapier, Apache Ant  
-```
+🌐 Web & UI
+HTML5  |  Angular  |  Angular.js  |  .NET  |  Figma
+
+🤖 AI & Machine Learning
+PyTorch  |  TensorFlow  |  scikit-learn  |  Pandas  |  NumPy  |  Matplotlib
+
+☁️ Cloud Platforms
+AWS  |  Google Cloud (GCP)  |  Microsoft Azure  |  Oracle Cloud  |  Cloudflare
+
+🗄️ Databases
+DynamoDB  |  PostgreSQL  |  MongoDB  |  SQLite
+
+🛠️ DevOps & Tools
+GitHub  |  GitLab  |  Terraform  |  Docker  |  Podman  |  Kubernetes  |  Jenkins
+
+🤖 Automation
+Flowise  |  Zapier  |  Apache Ant
+
 
 ---
 
