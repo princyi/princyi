@@ -2,10 +2,10 @@
 💻 Cloud & AI Enthusiast | Full Stack Explorer | Ethical AI Builder
 Welcome to my GitHub! I’m a tech enthusiast deeply passionate about **Cloud Technology**, **AI Development**, and building real-world, scalable innovations. From AI-powered tools to quantum encryption systems, I aim to bridge modern tech with human-centric solutions.
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <<p align="left">
+<p align="left">
   <a href="mailto:princykshirsagar@gmail.com">
-   /a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/princy-kshirsagar-333814226/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
