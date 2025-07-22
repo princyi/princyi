@@ -82,6 +82,13 @@ Flowise  |  Zapier  |  Apache Ant
 
 
 ---
+## 🏆 GitHub Stats & Achievements
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princyi&theme=dark&layout=compact&hide_border=false" width="47%" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=princyi&theme=dark&hide_border=false" width="60%" />
+</p>
 
 ## 🏆 GitHub Trophies
 
