@@ -59,7 +59,7 @@ Welcome to my GitHub! I’m a tech enthusiast deeply passionate about **Cloud Te
 
 💻 Tech Stack Experience
 
-🧑‍💻 Languages
+💻 Languages
 C++  |  Go  |  Python  |  JavaScript  |  PHP  |  Bash
 
 🌐 Web & UI
