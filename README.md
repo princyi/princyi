@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Princy Kshirsagar  
 💻 Cloud & AI Enthusiast | Full Stack Explorer | Ethical AI Builder
+Welcome to my GitHub! I’m a tech enthusiast deeply passionate about **Cloud Technology**, **AI Development**, and building real-world, scalable innovations. From AI-powered tools to quantum encryption systems, I aim to bridge modern tech with human-centric solutions.
+
 
 <p align="left">
   <a href="mailto:princykshirsagar@gmail.com">
