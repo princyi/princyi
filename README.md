@@ -2,11 +2,10 @@
 💻 Cloud & AI Enthusiast | Full Stack Explorer | Ethical AI Builder
 Welcome to my GitHub! I’m a tech enthusiast deeply passionate about **Cloud Technology**, **AI Development**, and building real-world, scalable innovations. From AI-powered tools to quantum encryption systems, I aim to bridge modern tech with human-centric solutions.
 
-
-<p align="left">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <<p align="left">
   <a href="mailto:princykshirsagar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+   /a>
   <a href="https://www.linkedin.com/in/princy-kshirsagar-333814226/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -58,6 +57,19 @@ Welcome to my GitHub! I’m a tech enthusiast deeply passionate about **Cloud Te
 
 ---
 
+## 💻 Tech Stack Experience
+
+```
+Languages:       C++, Go , Python, JavaScript, PHP, Bash  
+Web & UI:        HTML5, Angular, Angular.js, .NET, Figma 
+AI & ML:         PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, Matplotlib  
+Cloud Platforms: AWS, GCP, Azure, Oracle Cloud, Cloudflare  
+Databases:       DynamoDB, PostgreSQL, MongoDB, SQLite  
+DevOps:          GitHub, GitLab,Terraform, Docker, Docker, Podman, Kubernetes, Jenkins     
+Automation:      Flowise, Zapier, Apache Ant  
+```
+
+---
 
 ## 🏆 GitHub Trophies
 
@@ -75,8 +87,3 @@ Welcome to my GitHub! I’m a tech enthusiast deeply passionate about **Cloud Te
 ---
 
 _✨ Let’s innovate together and build something impactful!_
-
-
-
-
-
