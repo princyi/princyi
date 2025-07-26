@@ -96,7 +96,10 @@ Flowise  |  Zapier  |  Apache Ant
   <img src="https://github-profile-trophy.vercel.app/?username=princyi&theme=radical&no-frame=false&no-bg=true&margin-w=10" />
 </p>
 
+💻 Cloud & AI Enthusiast | Full Stack Explorer | Ethical AI Builder  
+Welcome to my GitHub! ...
 
+[▶ View Animated Particles](https://yourusername.github.io/yourrepo/)
 
 ---
 
