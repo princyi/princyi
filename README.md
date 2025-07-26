@@ -100,11 +100,27 @@ Flowise  |  Zapier  |  Apache Ant
   zoom: 1.2;
   overflow: visible;
 {
-<svg width="100" height="100">
-  <circle cx="50" cy="50" r="10" fill="blue">
+![Particle Animation](assets/animation.gif)
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Particle 1 -->
+  <circle cx="50" cy="150" r="5" fill="#00BFFF">
     <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -40" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Particle 2 -->
+  <circle cx="100" cy="150" r="5" fill="#FF69B4">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -40" dur="2.5s" begin="0.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.5;1" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Particle 3 -->
+  <circle cx="150" cy="150" r="5" fill="#FFD700">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -40" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite"/>
   </circle>
 </svg>
+
 
 ---
 
