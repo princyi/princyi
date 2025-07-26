@@ -96,7 +96,7 @@ Flowise  |  Zapier  |  Apache Ant
   <img src="https://github-profile-trophy.vercel.app/?username=princyi&theme=radical&no-frame=false&no-bg=true&margin-w=10" />
 </p>
 
-https://chatgpt.com/s/m_68846cd1ebdc81919c4982fa23f08f72
+
 
 ---
 
