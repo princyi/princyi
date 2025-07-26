@@ -95,12 +95,7 @@ Flowise  |  Zapier  |  Apache Ant
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=princyi&theme=radical&no-frame=false&no-bg=true&margin-w=10" />
 </p>
-/* From Uiverse.io by Juanes200122 */ 
-#svg-global {
-  zoom: 1.2;
-  overflow: visible;
-{
-![Particle Animation](assets/animation.gif)
+
 
 
 ---
