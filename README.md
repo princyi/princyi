@@ -100,6 +100,11 @@ Flowise  |  Zapier  |  Apache Ant
   zoom: 1.2;
   overflow: visible;
 {
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="10" fill="blue">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -40" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
 
 ---
 
